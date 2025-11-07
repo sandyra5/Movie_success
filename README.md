@@ -9,11 +9,10 @@ It combines **machine learning** and **unsupervised clustering** techniques to a
 ### 1️⃣ XGBoost Model
 - Used for **Movie Success Prediction** (Hit/Flop/Moderate).
 - Extracted key features like:
-  - Budget  
-  - Number of screens  
-  - IMDB ratings  
-  - Social media popularity  
-  - Cast and crew influence  
+  - Genre
+  - Cast
+  - Director
+  - Plot
 - Trained and evaluated the model using metrics such as **accuracy**, **precision**, and **recall**.
 - Achieved the highest accuracy among all models tested (compared to Random Forest and CNN).
 
